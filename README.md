@@ -1,24 +1,5 @@
-<div style="display: flex; justify-content: center;">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api?username=Comma-off&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats.vercel.app/api?username=Comma-off&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Comma-off&show_icons=true" />
-          </picture>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/convoychat">
-          <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Comma-off&layout=compact&langs_count=8&theme=dark" media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Comma-off&layout=compact&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Comma-off&layout=compact&langs_count=8" />
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## Hello! I'm Comma!
+And this is my GitHub account. I'm doing some stuff about OS's, programming languages and all that.
+
+## My account is almost a year old!
+And 27 repos in that time is... Crazy! GL everyone!
